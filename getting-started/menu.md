@@ -1,0 +1,24 @@
+<ul class="nav bs-docs-sidenav">
+            <li><a href="/erlangcentral/introduction/">Introduction</a></li>
+            <li><a href="/erlangcentral/basic-types-2/">Basic types</a></li>
+                        <li><a href="/erlangcentral/basic-operators/">Basic operators</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Pattern matching</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">case, cond and if</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Binaries, strings and char lists</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Keywords and maps</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Modules</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Recursion</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Enumerables and streams</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Processes</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">IO and the file system</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">alias, require and import</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Module attributes</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Structs</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Protocols</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Comprehensions</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Sigils</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">try, catch and rescue</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Typespecs and behaviours</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Erlang libraries</a></li>
+            <li><a href="/erlangcentral/pattern-matching/">Where to go next</a></li>
+</ul>
